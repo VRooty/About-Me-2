@@ -1,0 +1,42 @@
+body {
+    background-color: honeydew;
+    scroll-behavior: smooth;
+    border:backdrop
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace
+    background-color mistyrose;
+    text-align: center;
+}
+
+
+.Education {
+    background-color:rgb(210, 205, 137)
+    color-mix
+    border: black;
+
+}
+
+.WorkHistory {
+    background-color: rgb(115, 178, 203) 
+    color: rgb(0, 0, 0);
+}
+
+.OtherDetails {
+    background-color: gainsboro
+    color: rgb(0, 0, 0);
+}
+
+#NewThings {
+    background-color: rgb(141, 103, 56);
+    color: rgb(0, 0, 0);
+}
+
+#Quiz {
+    background-color: rgb(233, 85, 85);
+    color: rgb(0, 0, 0);
+    padding-right: 16px;
+    padding-left: 16px;
+    width: 2rem
+}
