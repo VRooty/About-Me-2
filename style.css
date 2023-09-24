@@ -1,42 +1,65 @@
 body {
-    background-color: honeydew;
+    background-color: grey
     scroll-behavior: smooth;
-    border:backdrop
+    text-size-adjust: 18;
+    
+    
 }
 
 header {
-    font-family: 'Courier New', Courier, monospace
-    background-color mistyrose;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    background-color: grey;
     text-align: center;
+    border-color: black;
+    border-style: double;
 }
 
-
 .Education {
-    background-color:rgb(210, 205, 137)
-    color-mix
-    border: black;
+    background-color: grey;
+    border-color: black;
+    border-style: double;
 
+}
+
+.Languages img{
+    float: left
+    text-align: right
+    
+}
+
+.Languages {
+    border-color: black;
+    border-style: double;
 }
 
 .WorkHistory {
-    background-color: rgb(115, 178, 203) 
-    color: rgb(0, 0, 0);
+    background-color: grey
+    border-color: black
+    border-style: double
+
 }
 
 .OtherDetails {
-    background-color: gainsboro
-    color: rgb(0, 0, 0);
+    background-color: grey
+    border-color: black
+    border-style: double
+}
+
+.books {
+    background-color: grey;
+    border-color: black;
+    border-style: double;
 }
 
 #NewThings {
-    background-color: rgb(141, 103, 56);
-    color: rgb(0, 0, 0);
+    background-color:grey
+    border-color: black
+    border-style: double
 }
 
 #Quiz {
-    background-color: rgb(233, 85, 85);
+    background-color: 
     color: rgb(0, 0, 0);
-    padding-right: 16px;
-    padding-left: 16px;
-    width: 2rem
+    border-color: black 
+    border-style: double
 }
